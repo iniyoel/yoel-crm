@@ -1,5 +1,27 @@
 Jumat, 2 Mei 2025
 
-15.30
+15.30-17.00
 Memulai Brainstorming untuk memahami kebutuhan dan menentukan flow dari website Customer Relationship Management.
 
+17.00-20.00
+Membuat asumsi flow website dalam bentuk flowchart, serta mengira-ngira kebutuhan database yang nantinya akan dipakai dalam bentuk PDM.
+Serta membuat wireframe dari website.
+link : https://www.figma.com/design/tJNGaDH9J3GG5Odkxx3Smf/Technical-Test?node-id=53-353&t=55YjSQZv2U28XhC3-1
+
+Sabtu, 3 Mei 2025
+08.00-12.00
+Memulai front-end development menggunakan bootstrap.
+
+15.00-16.00
+Memasukkan front-end kedalam framework Laravel serta menghubungkan tiap page.
+
+Minggu, 4 Mei 2025
+11.00-14.00
+Menyicil membuat database pada tiap entity yg kira kira membutuhkan.
+
+19.00-20.00
+Finishing backend dan memastikan fitur dapat berjalan.
+
+Senin, 5 Mei 2025
+10.00
+Push project ke Github
